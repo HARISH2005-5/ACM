@@ -105,7 +105,8 @@ After installation, you'll see a "Open Blue Ocean" button on the Jenkins dashboa
 Click it to view your pipeline in a modern, intuitive interface.
 
 # GUIDANCE PDF
-https://github.com/user-attachments/files/16570032/JENKINS_HARISH.V.pdf
+https://github.com/user-attachments/files/16570032/JENKINS_HARISH.V
+
 # My LinkedIn Profile
 
 www.linkedin.com/in/harishvijayasarangan
