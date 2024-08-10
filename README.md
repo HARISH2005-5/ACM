@@ -103,6 +103,13 @@ Access Blue Ocean:
 
 After installation, you'll see a "Open Blue Ocean" button on the Jenkins dashboard.
 Click it to view your pipeline in a modern, intuitive interface.
+![7](https://github.com/user-attachments/assets/e52f4fee-b07f-4a95-ba67-cc38c4e2212e)
+![6](https://github.com/user-attachments/assets/9372f554-46a6-42fb-81fc-2b72542c04f6)
+![5](https://github.com/user-attachments/assets/42b5caf8-65ff-409c-9da9-2a0f7b8e8d03)
+![4](https://github.com/user-attachments/assets/32c45c34-980f-40ed-b04a-9b4fd73eb6ff)
+![3](https://github.com/user-attachments/assets/f2415a04-c358-49e4-984b-3f1a5c51d23a)
+![2](https://github.com/user-attachments/assets/57d4ad3b-f080-4aad-86c0-6cfda630213e)
+![1](https://github.com/user-attachments/assets/2d667c39-56ce-4267-81d1-a82f017a6fd6)
 
 # GUIDANCE PDF
 https://github.com/user-attachments/files/16570032/JENKINS_HARISH.V.pdf
