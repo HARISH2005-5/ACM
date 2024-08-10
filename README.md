@@ -106,6 +106,7 @@ Click it to view your pipeline in a modern, intuitive interface.
 ![1](https://github.com/user-attachments/assets/5a9eae61-6f72-4576-91e3-b52e8949ffaa)
 ![6](https://github.com/user-attachments/assets/9372f554-46a6-42fb-81fc-2b72542c04f6)
 ![5](https://github.com/user-attachments/assets/42b5caf8-65ff-409c-9da9-2a0f7b8e8d03)
+![8](https://github.com/user-attachments/assets/ac305d02-d115-484f-8cdb-177ed487d744)
 ![4](https://github.com/user-attachments/assets/32c45c34-980f-40ed-b04a-9b4fd73eb6ff)
 ![3](https://github.com/user-attachments/assets/f2415a04-c358-49e4-984b-3f1a5c51d23a)
 ![2](https://github.com/user-attachments/assets/57d4ad3b-f080-4aad-86c0-6cfda630213e)
